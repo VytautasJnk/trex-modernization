@@ -1,0 +1,21 @@
+# Build outputs
+build/
+dist/
+out/
+artifacts/
+
+# Large test output
+results/raw/
+*.pcap
+*.pcapng
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.DS_Store
+.vscode/
+
